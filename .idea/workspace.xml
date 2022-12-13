@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3b9b9be-46c5-412b-b1d3-adfc77bd0045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geeksforgeeks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/Sum_triangle_from_array.java" afterDir="false" />
+    <list default="true" id="d3b9b9be-46c5-412b-b1d3-adfc77bd0045" name="Changes" comment="adding code of sum triangle from array">
+      <change beforePath="$PROJECT_DIR$/src/recursion/Sum_triangle_from_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Sum_triangle_from_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670944763980</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding code of sum triangle from array">
+      <created>1670946765371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670946765371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,12 +84,16 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding code of sum triangle from array" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding code of sum triangle from array" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/recursion/Sum_triangle_from_array.java</url>
-          <line>11</line>
+          <line>16</line>
           <properties class="recursion.Sum_triangle_from_array" method="sum2">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

@@ -1,4 +1,9 @@
 package recursion;
+//Approach :
+//
+//        1. At each iteration we created a new array(temp []) in printTriangle() function, Which holds the sum of consecutive elements of input array.
+//        2. Now passed newly created array(temp []) in recursive call of printTriangle() function.
+//        3. Repeat  step 1 and 2  until size of temp[] array is not equal to 1.
 
 import java.util.Arrays;
 
