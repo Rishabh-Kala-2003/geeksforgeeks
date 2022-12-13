@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3b9b9be-46c5-412b-b1d3-adfc77bd0045" name="Changes" comment="approach of code of sum triangle from array">
-      <change afterPath="$PROJECT_DIR$/src/recursion/Min_Max_elements_of_array.java" afterDir="false" />
+    <list default="true" id="d3b9b9be-46c5-412b-b1d3-adfc77bd0045" name="Changes" comment="code of Recursive Programs to find Minimum and Maximum elements of array">
+      <change afterPath="$PROJECT_DIR$/src/recursion/First_uppercase_letter_in_a_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +34,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/risha/IdeaProjects/gfg_Dsa/geeksforgeeks"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Min_Max_elements_of_array">
+  <component name="RunManager" selected="Application.First_uppercase_letter_in_a_string">
+    <configuration name="First_uppercase_letter_in_a_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.First_uppercase_letter_in_a_string" />
+      <module name="geeksforgeeks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Min_Max_elements_of_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.Min_Max_elements_of_array" />
       <module name="geeksforgeeks" />
@@ -66,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.First_uppercase_letter_in_a_string" />
         <item itemvalue="Application.Min_Max_elements_of_array" />
         <item itemvalue="Application.Sum_triangle_from_array" />
       </list>
@@ -94,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670946909252</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="code of Recursive Programs to find Minimum and Maximum elements of array">
+      <created>1670948363132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670948363132</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +133,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding code of sum triangle from array" />
     <MESSAGE value="approach of code of sum triangle from array" />
-    <option name="LAST_COMMIT_MESSAGE" value="approach of code of sum triangle from array" />
+    <MESSAGE value="code of Recursive Programs to find Minimum and Maximum elements of array" />
+    <option name="LAST_COMMIT_MESSAGE" value="code of Recursive Programs to find Minimum and Maximum elements of array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -124,6 +147,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/recursion/First_uppercase_letter_in_a_string.java</url>
+          <line>15</line>
+          <properties class="recursion.First_uppercase_letter_in_a_string" method="helper">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
